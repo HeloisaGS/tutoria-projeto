@@ -1,0 +1,19 @@
+{
+  "livros": [
+    {
+      "title": "As crônicas de Nárnia",
+      "author": "C. S. Lewis",
+      "id": 1
+    },
+    {
+      "title": "Harry Potter e a pedra filosofal",
+      "author": "J.K. Rowling",
+      "id": 2
+    },
+    {
+      "title": "O pequeno Principe",
+      "author": "Antoine de Saint-Exupéry",
+      "id": 3
+    }
+  ]
+}

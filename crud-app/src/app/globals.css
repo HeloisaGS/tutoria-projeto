@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*Cabeçalho*/
+nav{
+  padding: 20px;
+  background-color: #989898;
+}
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+a{
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+}
+
+/*Página de listar e deletar*/
+
+main h1, h2{
+  margin-top: 20px;
+  text-align: center;
+}
+main ul{
+  margin: 10px 100px;
+}
+/*Página de editar e adicionar*/
+
+.formulario{
+  display: inline-block;
+  border: 1px solid black;
+  padding: 30px;
+  margin: 10px 100px;
+}
